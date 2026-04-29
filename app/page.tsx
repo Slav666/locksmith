@@ -186,7 +186,7 @@ export default function Page() {
 
           <div className="flex gap-4 mt-8 flex-wrap">
             <a
-              href="tel:+447990309168"
+              href="tel:+447562760261"
               className="bg-red-600 hover:bg-red-700 px-6 py-4 rounded-2xl font-semibold"
             >
               📞 Call Now
@@ -262,7 +262,7 @@ export default function Page() {
 
         <div className="flex justify-center gap-4 flex-wrap">
           <a
-            href="tel:+447990309168"
+            href="tel:447562760261"
             className="bg-red-600 hover:bg-red-700 px-8 py-4 rounded-2xl font-bold"
           >
             📞 Call Now
